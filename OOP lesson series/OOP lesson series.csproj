@@ -42,6 +42,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Lesson One. Classes and scope\Baby.cs" />
+    <Compile Include="Lesson One. Classes and scope\Birthday.cs" />
+    <Compile Include="Lesson One. Classes and scope\Months.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
