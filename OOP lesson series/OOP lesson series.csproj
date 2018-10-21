@@ -44,7 +44,31 @@
   <ItemGroup>
     <Compile Include="Lesson One. Classes and scope\Baby.cs" />
     <Compile Include="Lesson One. Classes and scope\Birthday.cs" />
+    <Compile Include="Lesson One. Classes and scope\LessonOne.cs" />
     <Compile Include="Lesson One. Classes and scope\Months.cs" />
+    <Compile Include="Lesson Two. Inheritance\Human Stages\Adult.cs" />
+    <Compile Include="Lesson Two. Inheritance\Human Stages\Child.cs" />
+    <Compile Include="Lesson Two. Inheritance\Lesson2.cs" />
+    <Compile Include="Lesson Two. Inheritance\MilitaryRank.cs" />
+    <Compile Include="Lesson Two. Inheritance\Professions\Cleaner.cs" />
+    <Compile Include="Lesson Two. Inheritance\Female.cs" />
+    <Compile Include="Lesson Two. Inheritance\Professions\Firefighter.cs" />
+    <Compile Include="Lesson Two. Inheritance\Human.cs" />
+    <Compile Include="Lesson Two. Inheritance\Male.cs" />
+    <Compile Include="Lesson Two. Inheritance\Professions\General.cs" />
+    <Compile Include="Lesson Two. Inheritance\Professions\Leutenant.cs" />
+    <Compile Include="Lesson Two. Inheritance\Professions\MilitaryCommander.cs" />
+    <Compile Include="Lesson Two. Inheritance\Professions\Monk.cs" />
+    <Compile Include="Lesson Two. Inheritance\Professions\Nun.cs" />
+    <Compile Include="Lesson Two. Inheritance\Professions\PoliceOfficer.cs" />
+    <Compile Include="Lesson Two. Inheritance\Professions\Priest.cs" />
+    <Compile Include="Lesson Two. Inheritance\Professions\Recruit.cs" />
+    <Compile Include="Lesson Two. Inheritance\Professions\Soldier.cs" />
+    <Compile Include="Lesson Two. Inheritance\Professions\Student.cs" />
+    <Compile Include="Lesson Two. Inheritance\Professions\Teacher.cs" />
+    <Compile Include="Lesson Two. Inheritance\Human Stages\Teenager.cs" />
+    <Compile Include="Lesson Two. Inheritance\Human Stages\Todler.cs" />
+    <Compile Include="Lesson Two. Inheritance\Professions\Profession.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
