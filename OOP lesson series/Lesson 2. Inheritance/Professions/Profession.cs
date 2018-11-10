@@ -2,7 +2,7 @@
 
 namespace OOP_lesson_series.Lesson_2._Inheritance.Professions
 {
-    class Profession:Human
+    public class Profession:Human
     {
         public decimal Salary { set; get; }
 

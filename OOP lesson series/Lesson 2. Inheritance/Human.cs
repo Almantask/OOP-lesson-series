@@ -3,7 +3,7 @@ using OOP_lesson_series.Lesson_1._Classes_and_scope;
 
 namespace OOP_lesson_series.Lesson_2._Inheritance
 {
-    class Human
+    public class Human
     {
         protected BankAccount BankAccount { set; get; }
 

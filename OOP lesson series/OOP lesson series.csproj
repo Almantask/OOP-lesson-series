@@ -46,6 +46,7 @@
     <Compile Include="Lesson 1. Classes and scope\Birthday.cs" />
     <Compile Include="Lesson 1. Classes and scope\LessonOne.cs" />
     <Compile Include="Lesson 1. Classes and scope\Months.cs" />
+    <Compile Include="Lesson 2. Inheritance\UnemployedPerson.cs" />
     <Compile Include="Lesson 3. Interface\Castle.cs" />
     <Compile Include="Lesson 3. Interface\Construct.cs" />
     <Compile Include="Lesson 3. Interface\Gate.cs" />
@@ -79,11 +80,15 @@
     <Compile Include="Lesson 2. Inheritance\Human Stages\Todler.cs" />
     <Compile Include="Lesson 2. Inheritance\Professions\Profession.cs" />
     <Compile Include="Lesson 4. Abstract Class\CSharpProgrammerRoutine.cs" />
-    <Compile Include="Lesson 4. Abstract Class\IProgrammerRoutine.cs" />
     <Compile Include="Lesson 4. Abstract Class\JavaProgrammerRoutine.cs" />
     <Compile Include="Lesson 4. Abstract Class\JavascriptProgrammingRoutine.cs" />
     <Compile Include="Lesson 4. Abstract Class\Lesson4.cs" />
     <Compile Include="Lesson 4. Abstract Class\ProgrammerRoutine.cs" />
+    <Compile Include="Lesson 5 Generics\CustomCollection.cs" />
+    <Compile Include="Lesson 5 Generics\DataResponse.cs" />
+    <Compile Include="Lesson 5 Generics\GenericExtension.cs" />
+    <Compile Include="Lesson 5 Generics\GenericTest.cs" />
+    <Compile Include="Lesson 5 Generics\Lesson5.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
