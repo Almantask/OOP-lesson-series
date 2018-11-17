@@ -89,6 +89,13 @@
     <Compile Include="Lesson 5 Generics\GenericExtension.cs" />
     <Compile Include="Lesson 5 Generics\GenericTest.cs" />
     <Compile Include="Lesson 5 Generics\Lesson5.cs" />
+    <Compile Include="Lesson 6 Events\Command.cs" />
+    <Compile Include="Lesson 6 Events\Command1.cs" />
+    <Compile Include="Lesson 6 Events\CommandRunner.cs" />
+    <Compile Include="Lesson 6 Events\Lesson6.cs" />
+    <Compile Include="Lesson 6 Events\PoorCommand.cs" />
+    <Compile Include="Lesson 6 Events\ReportEventEndArgs.cs" />
+    <Compile Include="Lesson 6 Events\ReportEventStartArgs.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
