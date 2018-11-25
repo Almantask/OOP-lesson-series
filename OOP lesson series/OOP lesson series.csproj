@@ -43,7 +43,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Lesson 1. Classes and scope\Baby.cs" />
+    <Compile Include="Lesson 1. Classes and scope\BabyTooOldException.cs" />
     <Compile Include="Lesson 1. Classes and scope\Birthday.cs" />
+    <Compile Include="Lesson 1. Classes and scope\FutureBabyException.cs" />
     <Compile Include="Lesson 1. Classes and scope\LessonOne.cs" />
     <Compile Include="Lesson 1. Classes and scope\Months.cs" />
     <Compile Include="Lesson 2. Inheritance\UnemployedPerson.cs" />

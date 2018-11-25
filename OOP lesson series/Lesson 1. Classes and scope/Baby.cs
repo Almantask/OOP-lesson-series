@@ -75,11 +75,11 @@ namespace OOP_lesson_series.Lesson_1._Classes_and_scope
         private int CountBabyMonths(DateTime birthdate)
         {
             if (birthdate > DateTime.Now)
-                throw new Exception("No future babies allowed");
+                throw new FutureBabyException("No future babies allowed");
             TimeSpan birthdateDifference = DateTime.Now - birthdate;
             var monthsDifference = (int)Math.Floor(birthdateDifference.TotalDays / 30);
             if (monthsDifference > BABY_MAX_MONTHS)
-                throw new Exception($"This baby is too old:{monthsDifference} " +
+                throw new BabyTooOldException($"This baby is too old:{monthsDifference} " +
                                     $"months old is more than {36} months limit for a baby");
             return monthsDifference;
         }
