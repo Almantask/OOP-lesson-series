@@ -37,8 +37,8 @@ namespace OOP_lesson_series.Lesson_1._Classes_and_scope
         string _name;
 
         // Auto property
-        public int Months { set; get; }
-        public Birthday Birthday { set; get; }
+        public int Months { get; }
+        public Birthday Birthday { get; }
         
         // can you please explane why you used an Overide in the ToString methode!!
         // 
